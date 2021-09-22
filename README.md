@@ -1,7 +1,7 @@
 # Oberdan Soldi @OberdanSoldi
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/oberdan-soldi-055203204/)
-[![Discord Badge](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=Discord&logoColor=white)](https://www.discord.com/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/)
+<!-- [![Discord Badge](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=Discord&logoColor=white)](https://www.discord.com/) -->
+<!-- [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/) -->
 ![](https://komarev.com/ghpvc/?username=OberdanSoldi&label=Profile+Views&style=flat&color=gray)
 
 ## Hello there! 
