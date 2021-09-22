@@ -11,7 +11,7 @@ My name is Oberdan and I'm currently learning to program. 💻
 
 Talking about Personal Stuff:
 - :octocat: My current areas of interest are web development. 
-- :book: I’m currently learning the following languages: CSS, HTML, JavaScript, Java and PostgreSQL.
+- :book: I’m currently learning the following languages: CSS, HTML, JavaScript and PostgreSQL.
 
 ##
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
