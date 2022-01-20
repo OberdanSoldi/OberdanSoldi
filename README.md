@@ -22,9 +22,16 @@ Talking about Personal Stuff:
 
 <br>
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=OberdanSoldi&show_icons=true&theme=dracula"/>
+<div align="center">
+    
+</div>
 
+<div align="center">
+
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=OberdanSoldi&show_icons=true&theme=dracula"/>
 <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OberdanSoldi&layout=compact&langs_count=7&theme=dracula"/>
+
+</div>
 
 *NOTE: Top languages does not indicate my skill level or something like that.*
 
