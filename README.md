@@ -2,6 +2,7 @@
 
 My name is Oberdan and I'm currently learning to program. 💻
 
+[![wakatime](https://wakatime.com/badge/user/2d419ccd-14b6-4125-abf3-835d22a40348.svg)](https://wakatime.com/@2d419ccd-14b6-4125-abf3-835d22a40348)
 
 Talking about Personal Stuff:
 - :octocat: My current areas of interest are web development. 
